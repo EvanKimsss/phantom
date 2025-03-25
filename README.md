@@ -1,0 +1,2 @@
+Phantom代币验证合约地址
+0x18751ecb2dc5c1695011a5630a8e412dd3df4b17
